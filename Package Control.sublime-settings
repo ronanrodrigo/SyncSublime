@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AutoCompleteJS",
 		"Base16 Color Schemes",
 		"Case Conversion",
 		"ColorSchemeSelector",

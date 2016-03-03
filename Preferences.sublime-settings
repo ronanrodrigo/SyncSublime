@@ -11,5 +11,6 @@
 	"open_files_in_new_window": false,
 	"tab_size": 2,
 	"theme": "SoDaReloaded Dark.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"show_tab_close_buttons": false,
+	"translate_tabs_to_spaces": true,
 }

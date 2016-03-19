@@ -15,5 +15,6 @@
 	"spacegray_tabs_xlarge": true,
 	"tab_size": 2,
 	"theme": "Spacegray.sublime-theme",
+	"spacegray_sidebar_font_normal": true,
 	"translate_tabs_to_spaces": true
 }

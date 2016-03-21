@@ -11,10 +11,10 @@
 	"line_padding_top": 3,
 	"open_files_in_new_window": false,
 	"show_tab_close_buttons": false,
+	"spacegray_sidebar_font_normal": true,
 	"spacegray_sidebar_tree_large": true,
 	"spacegray_tabs_xlarge": true,
 	"tab_size": 2,
 	"theme": "Spacegray.sublime-theme",
-	"spacegray_sidebar_font_normal": true,
 	"translate_tabs_to_spaces": true
 }
